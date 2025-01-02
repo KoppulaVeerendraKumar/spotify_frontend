@@ -7,7 +7,7 @@ This project is a clone of the Spotify frontend UI, built using React and Tailwi
 ## Tech Stack
 ## Installation
 ## Usage
-### Live Demo Link: https://spotifyreactfrontend.netlify.app/
+### Live Demo Link:https://spotify-frontend-tan.vercel.app/
 
 ## Features
 🎨 Sleek UI: Replicates the modern design of Spotify.
